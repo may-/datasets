@@ -50,6 +50,7 @@ _BASE_URL = "https://object.pouta.csc.fi/OPUS-Tatoeba/{}/moses/{}-{}.txt.zip"
 
 # Please note that only few pairs are shown here. You can use config to generate data for all language pairs
 _LANGUAGE_PAIRS = [
+    ("de", "en"),
     ("en", "mr"),
     ("eo", "nl"),
     ("es", "pt"),
